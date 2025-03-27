@@ -28,6 +28,8 @@
 
 ###
 
+<p allign="Left">This gif shows how a techie might look and Here enjoy the animation below :)</p>
+
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV1YmQyazQ4MWI1c3cydG14MjNmcWxnYTh0Ym01cnZhdmlndGJvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif"  />
 
 <picture>
