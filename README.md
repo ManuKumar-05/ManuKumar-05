@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu Kumar H M</h1>
-<h3 align="center">A Techie from Bengaluru, Karnataaka, India</h3>
+<h3 align="center">A Techie from Bengaluru, India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
